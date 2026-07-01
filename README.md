@@ -1,5 +1,4 @@
 # 📊 Sales Performance Analysis Dashboard
-> **Data Analysis Bootcamp - Project #1**
 
 ---
 
